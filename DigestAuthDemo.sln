@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigestAuthDemo", "DigestAuthDemo\DigestAuthDemo.csproj", "{EC0FB901-33E8-46F5-B3FE-1771E2DD120E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigestClient", "DigestClient\DigestClient.csproj", "{20A831F9-2D35-431C-9776-E7EF9EFCC823}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC0FB901-33E8-46F5-B3FE-1771E2DD120E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0FB901-33E8-46F5-B3FE-1771E2DD120E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0FB901-33E8-46F5-B3FE-1771E2DD120E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0FB901-33E8-46F5-B3FE-1771E2DD120E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20A831F9-2D35-431C-9776-E7EF9EFCC823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A831F9-2D35-431C-9776-E7EF9EFCC823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A831F9-2D35-431C-9776-E7EF9EFCC823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A831F9-2D35-431C-9776-E7EF9EFCC823}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
